@@ -150,6 +150,11 @@ address a {
     color: var(--primary-color);
     text-decoration: none;
 }
+
+.no-padding {
+    padding: none;
+}
+
 /*MEDIA QUERIES*/
 
 /*For desktops*/
